@@ -1,21 +1,23 @@
-## Abdullah Basheer  
+## Wale Bashir  
 **20y/o FullStack Developer | Serial Founder and Product Engineer**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldrreamer&show_icons=true&count_private=true)](https://github.com/digitaldrreamer)
 
 ### Hello
 
-I'm Abdullah Basheer, a dedicated FullStack developer focused on building solutions that connect Africa's tech talent with remote work opportunities. With 5 years of professional experience, I work with technologies such as Svelte(Kit), TailwindCSS, JSDoc, Capacitor, Tauri, JavaScript, HTML, CSS, and TypeScript to deliver robust software.
+I'm Wale Bashir, a product engineer with 6+ years of experience building software that works.
 
 ---
 
 ### Technical Skills
 
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)  
-![CSS](https://img.shields.io/badge/CSS-Expert-yellowgreen)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)  
-![Tailwind](https://img.shields.io/badge/Tailwind-Expert-blue)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-lightgrey)
+![Python](https://img.shields.io/badge/Python-Proficient-blue)  
+![Node.js](https://img.shields.io/badge/Node.js-Expert-green)  
+![SvelteKit](https://img.shields.io/badge/SvelteKit-Expert-orange)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Expert-blue)  
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-lightgrey)  
+![SQL](https://img.shields.io/badge/SQL-Proficient-yellow)
+
 
 ---
 
@@ -28,7 +30,7 @@ I'm Abdullah Basheer, a dedicated FullStack developer focused on building soluti
    An API designed to deliver Islamic content. Documentation available at [api.aayah.info](https://api.aayah.info).
 
 3. **[GoRemote Africa](https://goremote.africa)**  
-   A remote job board connecting skilled developers with remote opportunities. Now shut down. See [https://goremote.africa]([url](https://goremote.africa))
+   A remote job board connecting skilled developers with remote opportunities. Now archived. See [https://goremote.africa]([url](https://goremote.africa))
 
 4. **[Classive](https://classive.app)**
    A P2P Multimedia educational platform enabled by AI and the science of learning, with the end goal of truly democratizing education. See more at [classive.app](https://classive.app)
