@@ -1,11 +1,14 @@
 ## Wale Bashir  
-**20y/o FullStack Developer | Serial Founder and Product Engineer**
+**20y/o FullStack Developer | Serial Technical Founder and Product Engineer**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldrreamer&show_icons=true&count_private=true)](https://github.com/digitaldrreamer)
+[Wakatime 2025 Wrapped](https://wakatime.com/a-look-back-at-2025/0adeced3-467a-4cc6-9433-a47106d2d8b7/gvlzgodwzf)
+<img width="762" height="845" alt="image" src="https://github.com/user-attachments/assets/1fef581c-f2ae-4cef-836b-a2429ab5abd3" />
+
 
 ### Hello
 
-I'm Wale Bashir, a product engineer with 6+ years of experience building software that works.
+I'm Wale Bashir, a product engineer with 6+ years of experience building software that works, and a bias for competence.
 
 ---
 
@@ -34,6 +37,16 @@ I'm Wale Bashir, a product engineer with 6+ years of experience building softwar
 
 4. **[Classive](https://classive.app)**
    A P2P Multimedia educational platform enabled by AI and the science of learning, with the end goal of truly democratizing education. See more at [classive.app](https://classive.app)
+
+5. **[Quickdoc](https://github.com/digitaldrreamer/quickdoc)**
+   An intelligent, configurable microservice for document text extraction, AI-powered summarization, text embedding, and token counting. See more [here](https://github.com/digitaldrreamer/quickdoc)
+
+6. **[Printer](https://github.com/digitaldrreamer/printer)**
+   A lightweight, production-ready microservice for converting web pages to PDFs using Puppeteer. Perfect for generating invoices, reports, documentation, and any web-based content as PDF files. See more [here](https://github.com/digitaldrreamer/printer)
+
+7. **[HaveIBeenDrained](https://github.com/digitaldrreamer/haveibeendrained)**
+   First decentralized, community-powered wallet security checker on Solana with comprehensive scam wiki and structured security education. See more [here](https://docs.haveibeendrained.org)
+   
 
 ---
 
