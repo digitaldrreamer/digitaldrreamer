@@ -3,6 +3,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldrreamer&show_icons=true&count_private=true)](https://github.com/digitaldrreamer)
 [Wakatime 2025 Wrapped](https://wakatime.com/a-look-back-at-2025/0adeced3-467a-4cc6-9433-a47106d2d8b7/gvlzgodwzf)
+[My Articles on Dev.to](https://dev.to/digitaldrreamer)
+[Personal Website](https://drreamer.digital)
 
 
 ### Hello
@@ -20,6 +22,7 @@ I'm Wale Bashir, a product engineer with many years of experience building softw
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-lightgrey)  
 ![SQL](https://img.shields.io/badge/SQL-Proficient-yellow)
 
+[![GitHub stats]([https://github-stats-sigma-green.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
