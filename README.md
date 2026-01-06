@@ -22,8 +22,7 @@ I'm Wale Bashir, a product engineer with many years of experience building softw
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-lightgrey)  
 ![SQL](https://img.shields.io/badge/SQL-Proficient-yellow)
 
-[![GitHub stats]([https://github-stats-sigma-green.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-stats-sigma-green.vercel.app/api?username=digitaldrreamer)](https://github.com/digitaldrreamer)
 ---
 
 ### Projects
