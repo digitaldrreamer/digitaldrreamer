@@ -3,12 +3,11 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldrreamer&show_icons=true&count_private=true)](https://github.com/digitaldrreamer)
 [Wakatime 2025 Wrapped](https://wakatime.com/a-look-back-at-2025/0adeced3-467a-4cc6-9433-a47106d2d8b7/gvlzgodwzf)
-<img width="762" height="845" alt="image" src="https://github.com/user-attachments/assets/1fef581c-f2ae-4cef-836b-a2429ab5abd3" />
 
 
 ### Hello
 
-I'm Wale Bashir, a product engineer with 6+ years of experience building software that works, and a bias for competence.
+I'm Wale Bashir, a product engineer with many years of experience building software that works, and a bias for competence.
 
 ---
 
@@ -50,7 +49,11 @@ I'm Wale Bashir, a product engineer with 6+ years of experience building softwar
 8. **[HealthDag](https://github.com/healthdag/healthdag-backend)**
    A decentralized healthcare data marketplace platform that empowers users to securely store, manage, and monetize their health data through blockchain technology, IPFS storage, and smart contracts. See more [here](https://github.com/healthdag/healthdag-backend)
    
-   
+
+8. **[FillASurvey](https://github.com/healthdag/healthdag-backend)**
+   A market research platform for researchers to get rich and verified data from real humans around the world, and allow people to earn real money by filling surveys. See more [here](https://fillasurvey.com)   
+
+See more projects and information on [my personal website](https://drreamer.digital/code)
 
 ---
 
@@ -68,8 +71,6 @@ If you're interested in discussing potential collaborations or opportunities, fe
 - [Website](https://drreamer.digital)  
 - [Twitter](https://x.com/digitaldrreamer)  
 - [LinkedIn](https://www.linkedin.com/in/digitaldrreamer/)  
-- [Email](mailto:wale@classive.app)
+- [Email](mailto:digitaldrreamer@gmail.com)
 
 ---
-
-Thank you for visiting my profile.
