@@ -45,7 +45,11 @@ I'm Wale Bashir, a product engineer with 6+ years of experience building softwar
    A lightweight, production-ready microservice for converting web pages to PDFs using Puppeteer. Perfect for generating invoices, reports, documentation, and any web-based content as PDF files. See more [here](https://github.com/digitaldrreamer/printer)
 
 7. **[HaveIBeenDrained](https://github.com/digitaldrreamer/haveibeendrained)**
-   First decentralized, community-powered wallet security checker on Solana with comprehensive scam wiki and structured security education. See more [here](https://docs.haveibeendrained.org)
+   First decentralized, community-powered wallet security checker on Solana with a comprehensive scam wiki and structured security education. See more [here](https://docs.haveibeendrained.org)
+
+8. **[HealthDag](https://github.com/healthdag/healthdag-backend)**
+   A decentralized healthcare data marketplace platform that empowers users to securely store, manage, and monetize their health data through blockchain technology, IPFS storage, and smart contracts. See more [here](https://github.com/healthdag/healthdag-backend)
+   
    
 
 ---
