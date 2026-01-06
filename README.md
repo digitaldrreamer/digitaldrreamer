@@ -1,78 +1,80 @@
-## Wale Bashir  
-**20y/o FullStack Developer | Serial Technical Founder and Product Engineer**
+# Wale Bashir
+**Software Engineer | Building High-Scale Distributed Systems**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldrreamer&show_icons=true&count_private=true)](https://github.com/digitaldrreamer)
-[Wakatime 2025 Wrapped](https://wakatime.com/a-look-back-at-2025/0adeced3-467a-4cc6-9433-a47106d2d8b7/gvlzgodwzf)
-[My Articles on Dev.to](https://dev.to/digitaldrreamer)
-[Personal Website](https://drreamer.digital)
 
-
-### Hello
-
-I'm Wale Bashir, a product engineer with many years of experience building software that works, and a bias for competence.
+### 👋 About Me
+I'm a Full-Stack Engineer who architects cost-efficient, high-performance systems. I focus on **Microservices, Web3 Protocols, and AI Pipelines**.
+I build software that works at scale—serving **25,000+ users**, securing **$300M+ in assets**, and processing terabytes of data on minimal infrastructure.
 
 ---
 
-### Technical Skills
+### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-Proficient-blue)  
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green)  
-![SvelteKit](https://img.shields.io/badge/SvelteKit-Expert-orange)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Expert-blue)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-lightgrey)  
-![SQL](https://img.shields.io/badge/SQL-Proficient-yellow)
+**Backend & Systems:**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-stats-sigma-green.vercel.app/api?username=digitaldrreamer)](https://github.com/digitaldrreamer)
----
+**Frontend & Mobile:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### Projects
-
-1. **[aayat-info](https://github.com/digitaldrreamer/aayat-info)**  
-   A web application providing resources on Islamic teachings. Built using Shadcn-svelte, JavaScript, Svelte, CSS, and HTML.
-
-2. **[aayah-info-api](https://github.com/digitaldrreamer/aayah-info-api)**  
-   An API designed to deliver Islamic content. Documentation available at [api.aayah.info](https://api.aayah.info).
-
-3. **[GoRemote Africa](https://goremote.africa)**  
-   A remote job board connecting skilled developers with remote opportunities. Now archived. See [https://goremote.africa]([url](https://goremote.africa))
-
-4. **[Classive](https://classive.app)**
-   A P2P Multimedia educational platform enabled by AI and the science of learning, with the end goal of truly democratizing education. See more at [classive.app](https://classive.app)
-
-5. **[Quickdoc](https://github.com/digitaldrreamer/quickdoc)**
-   An intelligent, configurable microservice for document text extraction, AI-powered summarization, text embedding, and token counting. See more [here](https://github.com/digitaldrreamer/quickdoc)
-
-6. **[Printer](https://github.com/digitaldrreamer/printer)**
-   A lightweight, production-ready microservice for converting web pages to PDFs using Puppeteer. Perfect for generating invoices, reports, documentation, and any web-based content as PDF files. See more [here](https://github.com/digitaldrreamer/printer)
-
-7. **[HaveIBeenDrained](https://github.com/digitaldrreamer/haveibeendrained)**
-   First decentralized, community-powered wallet security checker on Solana with a comprehensive scam wiki and structured security education. See more [here](https://docs.haveibeendrained.org)
-
-8. **[HealthDag](https://github.com/healthdag/healthdag-backend)**
-   A decentralized healthcare data marketplace platform that empowers users to securely store, manage, and monetize their health data through blockchain technology, IPFS storage, and smart contracts. See more [here](https://github.com/healthdag/healthdag-backend)
-   
-
-8. **[FillASurvey](https://github.com/healthdag/healthdag-backend)**
-   A market research platform for researchers to get rich and verified data from real humans around the world, and allow people to earn real money by filling surveys. See more [here](https://fillasurvey.com)   
-
-See more projects and information on [my personal website](https://drreamer.digital/code)
+**Infrastructure & DB:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
-### GitHub Activity
+### 🚀 Featured Engineering
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=digitaldrreamer&layout=compact)  
+#### 1. [HealthLease Hub (Backend)](https://github.com/healthdag/healthdag-backend)
+> **Stack:** Bun, Hono, IPFS, Solidity, PostgreSQL  
+A decentralized healthcare data marketplace.
+- **Architecture:** Implemented Self-Sovereign Identity (DID) and smart contracts for secure data leasing.
+- **Security:** Built a cryptographic emergency access system using signed JWTs and QR codes.
+
+#### 2. [Have I Been Drained?](https://github.com/digitaldrreamer/haveibeendrained)
+> **Stack:** Rust (Anchor), Solana, Astro, TypeScript  
+The first decentralized, community-powered wallet security registry on Solana.
+- **Impact:** Addressing **$300M+** in wallet security exploits via on-chain verification.
+- **Performance:** Real-time transaction analysis engine processing instructions with **<15ms latency**.
+
+#### 3. [GoRemote Africa](https://goremote.africa)
+> **Stack:** Node.js, PostgreSQL, Redis, SvelteKit  
+A remote job platform that scaled to **25,000 MAUs** with $0 marketing.
+- **Scale:** Engineered infrastructure serving 25k users on a **$7/month budget**.
+- **Data:** Automated pipeline processing **1,000+ daily listings** with AI-based fraud detection.
+
+#### 4. [QuickDoc](https://github.com/digitaldrreamer/quickdoc)
+> **Stack:** Python, FastAPI, Transformers, Docker  
+Intelligent microservice for document extraction, OCR, and AI summarization.
+- **AI:** Implemented page-by-page embedding generation and semantic chunking for RAG pipelines.
+
+#### 5. [Printer](https://github.com/digitaldrreamer/printer)
+> **Stack:** Node.js, Puppeteer, Docker  
+Production-ready PDF generation microservice.
+- **Reliability:** Implemented a single-concurrency queue system to ensure predictable memory usage under heavy load.
+
+---
+
+### 📂 Other Projects
+- **[Classive](https://classive.app)** - AI-powered multimedia educational platform (EdTech).
+- **[FillASurvey](https://fillasurvey.com)** - Market research platform connecting researchers with verified participants.
+- **[Aayah Info](https://github.com/digitaldrreamer/aayat-info)** - Islamic resource PWA built with Shadcn-svelte.
+
+---
+
+### 📊 GitHub Activity
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=digitaldrreamer)
 
 ---
 
-### Connect
-
-If you're interested in discussing potential collaborations or opportunities, feel free to reach out:
-
-- [Website](https://drreamer.digital)  
-- [Twitter](https://x.com/digitaldrreamer)  
-- [LinkedIn](https://www.linkedin.com/in/digitaldrreamer/)  
-- [Email](mailto:digitaldrreamer@gmail.com)
-
----
+### 🌐 Connect
+[Website](https://drreamer.digital) • [Twitter](https://x.com/digitaldrreamer) • [LinkedIn](https://www.linkedin.com/in/digitaldrreamer/) • [Email](mailto:jonesarmy001@gmail.com)
