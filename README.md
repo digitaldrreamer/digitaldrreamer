@@ -1,10 +1,17 @@
 # Wale Bashir
-**Software Engineer | Building High-Scale Distributed Systems**
+**Software Engineer & Product Engineer | Building High-Scale Distributed Systems**
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldrreamer&show_icons=true&count_private=true)](https://github.com/digitaldrreamer)
+[![Wakatime](https://wakatime.com/badge/user/0adeced3-467a-4cc6-9433-a47106d2d8b7.svg)](https://wakatime.com/@digitaldrreamer)
+
+[📚 My Technical Articles (Dev.to)](https://dev.to/digitaldrreamer) • [🌐 Personal Website](https://drreamer.digital)
+
+---
 
 ### 👋 About Me
-I'm a Full-Stack Engineer who architects cost-efficient, high-performance systems. I focus on **Microservices, Web3 Protocols, and AI Pipelines**.
+I'm a **Product-Minded Software Engineer** who architects cost-efficient, high-performance systems. I bridge the gap between complex infrastructure and user experience.
+
+I focus on **Microservices, Web3 Protocols, and AI Pipelines**.
 I build software that works at scale—serving **25,000+ users**, securing **$300M+ in assets**, and processing terabytes of data on minimal infrastructure.
 
 ---
