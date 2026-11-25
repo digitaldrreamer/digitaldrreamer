@@ -37,8 +37,9 @@ deployment, and helping people use what we ship.
   browser-native document compiler that turns rendered HTML into
   native PDF objects without a headless-browser service.
 
-- [Explee MCP](https://github.com/digitaldrreamer/explee-mcp): an MCP
-  server exposing company search, enrichment, and agent workflows.
+- [Fiber Atlas](https://github.com/digitaldrreamer/fiber-atlas): a
+  network-monitoring product for Fiber on CKB, with an API and dashboard
+  for channel health and on-chain activity.
 
 - [CKB Transaction Firewall](https://github.com/digitaldrreamer/ckb-transaction-firewall):
   outgoing-payment filtering enforced at consensus on CKB,
@@ -59,10 +60,7 @@ Selected articles:
 - [Using bitmasks for role-based permissions](https://dev.to/digitaldrreamer/using-bitmasks-for-role-based-permissions-stop-querying-your-database-34pn)
 - [Session tokens vs JWTs](https://dev.to/digitaldrreamer/session-tokens-vs-jwts-the-false-dichotomy-4ba5)
 
-## Tools I work with
-
-TypeScript, Go, Rust, Python, PostgreSQL, Redis, Docker,
-SvelteKit, APIs, SDKs, and MCP.
+I use whatever tools make sense for the job.
 
 ## Find me
 
