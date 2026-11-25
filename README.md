@@ -12,40 +12,39 @@ deployment, and helping people use what we ship.
 
 ## Product engineering
 
-- **[FillASurvey](https://fillasurvey.com), Founding Engineer** — built
+- **[FillASurvey](https://fillasurvey.com), Founding Engineer**: built
   software for a research and survey platform used by tens of thousands
   of people worldwide.
 
-- **Capital-market software at NewStar Africa** — built the Go and
+- **Capital-market software at NewStar Africa**: built the Go and
   PostgreSQL backend for Tranche.ng, supporting bond and commercial-paper
-  issuance. Used row-level locking to prevent double allocation during
-  concurrent subscriptions and payments.
+  issuance.
 
-- **GoRemote Africa, Founder and Sole Engineer** — built and ran a
+- **GoRemote Africa, Founder and Sole Engineer**: built and ran a
   remote-job platform that grew to 25,000+ monthly active users.
 
 ## Selected work
 
-- [LLM Reference](https://github.com/reclear-io/llmref) — work at Reclear
+- [LLM Reference](https://github.com/reclear-io/llmref): work at Reclear
   on version-pinned documentation for AI coding tools, available through
   a public API, SDK, CLI, and MCP server.
 
-- [broomsticks](https://github.com/digitaldrreamer/broomsticks) — a CLI
+- [broomsticks](https://github.com/digitaldrreamer/broomsticks): a CLI
   for finding and redacting secrets in coding-assistant transcripts,
   with dry-run defaults and backups before writes.
 
-- [Garri](https://github.com/digitaldrreamer/garri) — an alpha-stage
+- [Garri](https://github.com/digitaldrreamer/garri): an alpha-stage
   browser-native document compiler that turns rendered HTML into
   native PDF objects without a headless-browser service.
 
-- [Explee MCP](https://github.com/digitaldrreamer/explee-mcp) — an MCP
+- [Explee MCP](https://github.com/digitaldrreamer/explee-mcp): an MCP
   server exposing company search, enrichment, and agent workflows.
 
-- [CKB Transaction Firewall](https://github.com/digitaldrreamer/ckb-transaction-firewall)
-  — outgoing-payment filtering enforced at consensus on CKB,
+- [CKB Transaction Firewall](https://github.com/digitaldrreamer/ckb-transaction-firewall):
+  outgoing-payment filtering enforced at consensus on CKB,
   with TypeScript and Rust SDKs. Deployed to testnet.
 
-- [Whots](https://github.com/digitaldrreamer/whots) — a multiplayer
+- [Whots](https://github.com/digitaldrreamer/whots): a multiplayer
   Nigerian Whot game with a Rust backend, AI opponents, and a
   SvelteKit client.
 
