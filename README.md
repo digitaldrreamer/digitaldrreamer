@@ -10,6 +10,20 @@ including Willow, Saturn Cloud, Seenode, OpenOps, and Signadot.
 My work spans implementation, API and SDK design, documentation,
 deployment, and helping people use what we ship.
 
+## Product engineering
+
+- **[FillASurvey](https://fillasurvey.com), Founding Engineer** — built
+  software for a research and survey platform used by tens of thousands
+  of people worldwide.
+
+- **Capital-market software at NewStar Africa** — built the Go and
+  PostgreSQL backend for Tranche.ng, supporting bond and commercial-paper
+  issuance. Used row-level locking to prevent double allocation during
+  concurrent subscriptions and payments.
+
+- **GoRemote Africa, Founder and Sole Engineer** — built and ran a
+  remote-job platform that grew to 25,000+ monthly active users.
+
 ## Selected work
 
 - [LLM Reference](https://github.com/reclear-io/llmref) — work at Reclear
@@ -45,9 +59,6 @@ Selected articles:
 - [Native PDFs from the browser's resolved layout](https://dev.to/digitaldrreamer/we-dont-need-chromium-we-can-just-generate-native-pdfs-from-the-browsers-resolved-layout-5d3p)
 - [Using bitmasks for role-based permissions](https://dev.to/digitaldrreamer/using-bitmasks-for-role-based-permissions-stop-querying-your-database-34pn)
 - [Session tokens vs JWTs](https://dev.to/digitaldrreamer/session-tokens-vs-jwts-the-false-dichotomy-4ba5)
-
-Previously, I founded and built GoRemote Africa, a remote-job platform
-that grew to 25,000+ monthly active users.
 
 ## Tools I work with
 
