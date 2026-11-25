@@ -25,7 +25,7 @@ deployment, and helping people use what we ship.
 
 ## Selected work
 
-- [LLM Reference](https://github.com/reclear-io/llmref): work at Reclear
+- [LLMRef](https://github.com/reclear-io/llmref): work at Reclear
   on version-pinned documentation for AI coding tools, available through
   a public API, SDK, CLI, and MCP server.
 
