@@ -3,6 +3,8 @@
 Software engineer and technical writer building developer tools,
 AI-agent integrations, and backend systems.
 
+I'm also an ecosystem developer for CKB.
+
 At [Reclear](https://reclear.io), I work on documentation, technical
 articles, and runnable examples for developer-tool and cloud companies,
 including Willow, Saturn Cloud, Seenode, OpenOps, and Signadot.
