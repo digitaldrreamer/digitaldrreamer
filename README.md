@@ -3,8 +3,6 @@
 Software engineer and technical writer building developer tools,
 AI-agent integrations, and backend systems.
 
-I'm also an ecosystem developer for CKB.
-
 At [Reclear](https://reclear.io), I work on documentation, technical
 articles, and runnable examples for developer-tool and cloud companies,
 including Willow, Saturn Cloud, Seenode, OpenOps, and Signadot.
@@ -13,6 +11,9 @@ My work spans implementation, API and SDK design, documentation,
 deployment, and helping people use what we ship.
 
 ## Product engineering
+
+- **CKB, Ecosystem Developer**: build tools for the CKB ecosystem,
+  including Fiber Atlas and CKB Transaction Firewall.
 
 - **[FillASurvey](https://fillasurvey.com), Founding Engineer**: built
   software for a research and survey platform used by tens of thousands
